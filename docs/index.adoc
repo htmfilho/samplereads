@@ -1,4 +1,4 @@
-﻿= Roma : Manage Sports From Training to Competition
+﻿= Pycific : Manage Sports From Training to Competition
 Hildeberto Mendonca <me@hildeberto.com>
 v0.0.0
 :doctype: book
