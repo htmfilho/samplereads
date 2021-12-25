@@ -1,0 +1,18 @@
+﻿= Roma : Manage Sports From Training to Competition
+Hildeberto Mendonca <me@hildeberto.com>
+v0.0.0
+:doctype: book
+:pdf-page-size: LETTER
+:encoding: utf-8
+:toc: left
+:toclevels: 3
+:numbered:
+
+> Pycific is an application to plan and execute a training program, as well as managing a compatition, to supported sports. It initially targets running and swimming, but it will be designed to support more sports and modalities. 
+
+:sectnums!:
+
+
+:sectnums:
+
+
