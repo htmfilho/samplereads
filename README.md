@@ -1,3 +1,3 @@
-# pycific
+# SampleReads
 
-Pycific is an application to plan and execute a training program, as well as managing a compatition, to supported sports. It initially targets running and swimming, but it will be designed to support more sports and modalities.
+SampleReads is an application to keep track of your reads like books, magazines, e-books, manuals and many other things, entirely or partially. Unlike other alternatives, it is possible to indicate that you read from page 47 to 81, make notes, and write reviews. It also calculates reading stats.
