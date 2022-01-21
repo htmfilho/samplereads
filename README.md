@@ -5,3 +5,5 @@ SampleReads is an application to keep track of your reads like books, magazines,
 ## Usage
 
     $ mix phx.server
+
+Then visit http://localhost:4000.
