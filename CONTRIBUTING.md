@@ -27,3 +27,7 @@
 ## Do you want to contribute to the Rails documentation?
 
 If you tried to proceed according to the documentation and something didn't go as expected, please suggest improvements in the documentation to cover your particular use case.
+
+## REPL
+
+    $ iex -S mix
